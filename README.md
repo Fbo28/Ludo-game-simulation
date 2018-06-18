@@ -1,4 +1,4 @@
-# Ludo-game-simulation
+# Ludo Game Simulation
 ## About the game
 Ludo is board game for two to four players,in which the players race their four tokens from start to
 finish according to die rolls.
